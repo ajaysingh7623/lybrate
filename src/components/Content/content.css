@@ -1,0 +1,18 @@
+.contact{
+    color:red;
+  }
+  :root {
+    
+    --width: 50%;
+  }
+
+  input[type=text] {
+    width: var(--width);
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+
+ 
